@@ -1,9 +1,9 @@
 Curriculum <br>
 **Short Specializations** <br>
 
-# 0x00. Pascal's Triangle
+# 0x0A. Prime Game
 
-`Algorithm` `Python` `Encapsulation`
+`Algorithm` `Python`
 
 #### Concepts
 
@@ -15,12 +15,13 @@ _For this project, look at these concepts:_
 
 * Allowed editors: `vi`, `vim`, `emacs`
 * Files interpreted/compiled on Ubuntu 14.04 LTS using `python3` (version 3.4.3)
+* Files should end with a new line
 * Files first line exactly shebang `#!/usr/bin/python3`
 * `README.md` file mandatory
 * Code documented and using `PEP 8` style (version 1.7.x)
 * Files executable
 
-## General Learning & Setu
+## General Learning & Setup
 
 `python.py`
 <details>
@@ -37,3 +38,5 @@ _For this project, look at these concepts:_
       pass
   ```
 </details>
+
+## Finally...

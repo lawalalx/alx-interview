@@ -1,9 +1,9 @@
 Curriculum <br>
 **Short Specializations** <br>
 
-# 0x00. Pascal's Triangle
+# 0x02. Minimum Operations
 
-`Algorithm` `Python` `Encapsulation`
+`Algorithm` `Python`
 
 #### Concepts
 
@@ -18,7 +18,7 @@ _For this project, look at these concepts:_
 * Files first line exactly shebang `#!/usr/bin/python3`
 * `README.md` file mandatory
 * Code documented and using `PEP 8` style (version 1.7.x)
-* Files executable
+* Files must be executable
 
 ## General Learning & Setu
 
@@ -27,7 +27,10 @@ _For this project, look at these concepts:_
   <summary>Click to show/hide file contents</summary>
 
   ```python
+  #!/usr/bin/env python3
+  
   import sys, argv
+  
   if __name__ == "__main__":
 
   class ClassAct:
@@ -37,3 +40,5 @@ _For this project, look at these concepts:_
       pass
   ```
 </details>
+
+## Finally...

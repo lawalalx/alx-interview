@@ -1,9 +1,9 @@
 Curriculum <br>
 **Short Specializations** <br>
 
-# 0x00. Pascal's Triangle
+# 0x03. Log Parsing
 
-`Algorithm` `Python` `Encapsulation`
+`Algorithm` `Python` `Permissions`
 
 #### Concepts
 
@@ -19,8 +19,9 @@ _For this project, look at these concepts:_
 * `README.md` file mandatory
 * Code documented and using `PEP 8` style (version 1.7.x)
 * Files executable
+* Length of file tested using `wc`
 
-## General Learning & Setu
+## General Learning & Setup
 
 `python.py`
 <details>
@@ -37,3 +38,5 @@ _For this project, look at these concepts:_
       pass
   ```
 </details>
+
+## Finally...
