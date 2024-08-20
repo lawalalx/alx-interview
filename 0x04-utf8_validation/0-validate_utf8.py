@@ -36,3 +36,7 @@ def validUTF8(data):
         return False
 
     return True
+
+print(bin(45))
+print(bin(45).replace('0b', '').rjust(8, '0')[-8:])
+print(ord('A'))
